@@ -22,10 +22,10 @@ module.exports = (robot) ->
         "We all came into this world naked. The rest is all drag.",
         "Always ru-member to Sissy that Walk!",
         "Good luck. And DON'T fuck it up!",
-        "Mama said "Unless they gonna pay your bills, pay them bitches no mind.",
+        "Mama said 'Unless they gonna pay your bills, pay them bitches no mind.'",
         "And if I fly or if I fall, at least I can say I gave it all.",
-        "Everybody say LOVE."
-        "It's about Charm, Uniqueness, Nerve & Talent.",
+        "Everybody say LOVE.",
+        "It's about Charisma, Uniqueness, Nerve & Talent.",
         "Impersonating Beyonce is not your destiny, child.",
         "Life is about using the whole box of crayons.",
         "Get up, look sickening, and make them eat it.",
